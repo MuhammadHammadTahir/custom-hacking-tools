@@ -78,20 +78,28 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/custom-hacking-tools.git
-Navigate to the project directory:
 
+```
+Navigate to the project directory:
+```bash
 cd custom-hacking-tools
+```
 Install required dependencies:
 
-pip install -r requirements.txt
+```bash
+pip install library-name
+```
+
 Note: Most tools rely only on built-in Python libraries. If a specific tool requires additional modules, it will be mentioned in the script comments.
 
 💡 Usage
 Each tool can be executed individually:
-
+```bash
 python3 tool_name.py
 
 python3 portscanner.py
+
+```
 You can edit the files directly to modify target IPs, ports, and settings as needed.
 
 🧪 Testing

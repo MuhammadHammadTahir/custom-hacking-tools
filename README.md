@@ -92,7 +92,7 @@ pip install library-name
 
 Note: Most tools rely only on built-in Python libraries. If a specific tool requires additional modules, it will be mentioned in the script comments.
 
-💡 Usage
+## 💡 Usage
 Each tool can be executed individually:
 ```bash
 python3 tool_name.py
@@ -102,7 +102,7 @@ python3 portscanner.py
 ```
 You can edit the files directly to modify target IPs, ports, and settings as needed.
 
-🧪 Testing
+## 🧪 Testing
 You can test tools locally using:
 
 Vulnerable VMs (e.g., Metasploitable2, DVWA)
@@ -111,7 +111,7 @@ Custom-built test environments
 
 Important: Never test these tools against unauthorized systems or networks. Use only in controlled and legal environments.
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 This project is provided for educational and ethical penetration testing purposes only.
 
 ❌ I do not condone illegal activities.

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html class="no-js  page-9999 app-DCIS-MANAGEMENT-SYSTEM" lang="en-us" >
+<head>
+  <meta http-equiv="x-ua-compatible" content="IE=edge" />
+  <meta charset="utf-8">
+  <title>DCIS Management System - Log In</title>
+  <base href="/ords/" />
+<link rel="stylesheet" href="/i/app_ui/css/Core.min.css?v=24.1.0" type="text/css" />
+<link rel="stylesheet" href="/i/app_ui/css/Theme-Standard.min.css?v=24.1.0" type="text/css" />
+
+  <link rel="stylesheet" href="/i/libraries/font-apex/2.3/css/font-apex.min.css?v=24.1.0" type="text/css" />
+<link rel="stylesheet" href="/i/themes/theme_42/24.1/css/Core.min.css?v=24.1.0" type="text/css" />
+
+  
+  <link rel="stylesheet" href="/i/themes/theme_42/24.1/css/Vita.min.css?v=24.1.0" type="text/css" />
+
+  
+  <style type="text/css">
+.center-aligh{
+    background-color: lightgreen !important;
+    text-align: center;
+    width: 100%;
+}
+</style>
+
+  <link rel="apple-touch-icon" href="r/cmis/100/files/static/v21/icons/app-icon-192.png" /><link rel="icon" href="r/cmis/100/files/static/v21/icons/app-icon-32.png" />
+  
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Expires" content="-1" /><meta http-equiv="Cache-Control" content="no-cache" /><meta name="theme-color" content="&#x23;000000" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="DCIS&#x20;Management&#x20;System" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<link rel="manifest" href="&#x2F;ords&#x2F;r&#x2F;cmis&#x2F;dcis-management-system&#x2F;manifest.json&#x3F;v&#x3D;24.1.0-242386699&#x26;lang&#x3D;en-us" crossorigin="use-credentials" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body class="t-PageBody--login t-PageTemplate--login no-anim   apex-side-nav apex-icons-fontapex apex-theme-vita"  >
+<form role="none" action="wwv_flow.accept?p_context=dcis-management-system/login/14365746450439" method="post" name="wwv_flow" id="wwvFlowForm" data-oj-binding-provider="none" novalidate  autocomplete="off">
+<input type="hidden" name="p_flow_id" value="100" id="pFlowId" /><input type="hidden" name="p_flow_step_id" value="9999" id="pFlowStepId" /><input type="hidden" name="p_instance" value="14365746450439" id="pInstance" /><input type="hidden" name="p_page_submission_id" value="MTA1MjY0MTIxNjIzOTAxNzU0MDU4OTYzMDc3MDQ2ODIyMzA1ODk1&#x2F;WkTfhf_Vq4fuSkkuDc7cWgf8IYzJ_Q4o8UoiQHUiFap9WZrxl7EJPdReiIed8Cf4jGRpc0Zb2N1d9C0ta4sbZA" id="pPageSubmissionId" /><input type="hidden" name="p_request" value="" id="pRequest" /><input type="hidden" name="p_reload_on_submit" value="S" id="pReloadOnSubmit" /><input type="hidden" value="dcis-management-system&#x2F;login&#x2F;14365746450439" id="pContext" /><input type="hidden" value="105264121623901754058963077046822305895" id="pSalt" />
+<div class="t-Login-bg">
+  
+  <div class="t-Login-bgImg"></div>
+</div><div class="t-Login-container">
+  <header class="t-Login-containerHeader"></header>
+  <main class="t-Login-containerBody" id="main"><span id="APEX_SUCCESS_MESSAGE" data-template-id="38369442068456050_S" class="apex-page-success u-hidden"></span><span id="APEX_ERROR_MESSAGE" data-template-id="38369442068456050_E" class="apex-page-error u-hidden"></span><div class="container">
+<div class="row ">
+<div class="col col-12 apex-col-auto col-start col-end" ><div class="t-Login-region t-Form--stretchInputs t-Form--labelsAbove " id="R38577721968456161"  role="region" aria-labelledby="R38577721968456161_heading" >
+  <div class="t-Login-header">
+    <img class="t-Login-logo" src="r&#x2F;cmis&#x2F;100&#x2F;files&#x2F;static&#x2F;v21&#x2F;icons&#x2F;app-icon-512.png" alt="" data-app-icon />
+    <span class="t-Login-logo " aria-hidden="true"></span>
+    <h2 class="t-Login-title" id="R38577721968456161_heading" data-apex-heading>DCIS Management System</h2>
+  </div>
+  <div class="t-Login-body"><div class="t-Form-fieldContainer t-Form-fieldContainer--hiddenLabel rel-col  apex-item-wrapper apex-item-wrapper--has-placeholder apex-item-wrapper--text-field apex-item-wrapper--has-icon" id="P9999_USERNAME_CONTAINER"><div class="t-Form-labelContainer t-Form-labelContainer--hiddenLabel col col-null">
+<label for="P9999_USERNAME" id="P9999_USERNAME_LABEL" class="t-Form-label u-VisuallyHidden">Username</label>
+</div><div class="t-Form-inputContainer col col-null"><div class="t-Form-itemWrapper"><input type="text"  id="P9999_USERNAME" name="P9999_USERNAME" placeholder="Username" class="text_field&#x20;apex-item-text&#x20;apex-item-has-icon" value="" size="40" maxlength="100" data-trim-spaces="NONE"  /><span class="apex-item-icon fa&#x20;fa-user" aria-hidden="true"></span></div><span id="P9999_USERNAME_error_placeholder" class="a-Form-error" data-template-id="38533072701456129_ET"></span></div></div><div class="t-Form-fieldContainer t-Form-fieldContainer--hiddenLabel rel-col  apex-item-wrapper apex-item-wrapper--has-placeholder apex-item-wrapper--password apex-item-wrapper--has-icon" id="P9999_PASSWORD_CONTAINER"><div class="t-Form-labelContainer t-Form-labelContainer--hiddenLabel col col-null">
+<label for="P9999_PASSWORD" id="P9999_PASSWORD_LABEL" class="t-Form-label u-VisuallyHidden">Password</label>
+</div><div class="t-Form-inputContainer col col-null"><div class="t-Form-itemWrapper"><input type="password" name="P9999_PASSWORD" size="40" maxlength="100" value=""  id="P9999_PASSWORD" placeholder="Password" class="password&#x20;apex-item-text&#x20;apex-item-has-icon"  onkeypress="return apex.submit({request:'P9999_PASSWORD',submitIfEnter:event})"  /><span class="apex-item-icon fa&#x20;fa-key" aria-hidden="true"></span></div><span id="P9999_PASSWORD_error_placeholder" class="a-Form-error" data-template-id="38533072701456129_ET"></span></div></div><div class="t-Form-fieldContainer t-Form-fieldContainer--hiddenLabel rel-col  apex-item-wrapper apex-item-wrapper--single-checkbox" id="P9999_REMEMBER_CONTAINER"><div class="t-Form-labelContainer t-Form-labelContainer--hiddenLabel col col-null">
+<label for="P9999_REMEMBER" id="P9999_REMEMBER_LABEL" class="t-Form-label u-VisuallyHidden">Remember username</label>
+</div><div class="t-Form-inputContainer col col-null"><div class="t-Form-itemWrapper"><div class="apex-item-single-checkbox"><input type="hidden" name="P9999_REMEMBER" id="P9999_REMEMBER_HIDDENVALUE" value="N"><input type="checkbox"  id="P9999_REMEMBER" aria-label="Remember&#x20;username" data-unchecked-value="N" value="Y" /></div></div><span id="P9999_REMEMBER_error_placeholder" class="a-Form-error" data-template-id="38533072701456129_ET"></span></div></div></div>
+  <div class="t-Login-buttons"><button class="t-Button t-Button--hot " type="button"   id="B38579742522456164"><span class="t-Button-label">Sign In</span></button></div>
+  <div class="t-Login-links"></div>
+  <div class="t-Login-subRegions"><div class="container">
+<div class="row ">
+<div class="col col-12 apex-col-auto col-start col-end" ><div id="R40574329015322942" class=""  ><div class="container">
+<div class="row ">
+<div class="col col-6  col-start" ><button class="t-Button t-Button--icon t-Button--iconRight&#x20;t-Button--hoverIconPush&#x20;t-Button--stretch&#x20;t-Button--gapTop"   type="button" id="B40280360942335549"><span class="t-Icon t-Icon--left fa&#x20;fa-lock-password" aria-hidden="true"></span><span class="t-Button-label">Forget Password</span><span class="t-Icon t-Icon--right fa&#x20;fa-lock-password" aria-hidden="true"></span></button></div><div class="col col-6  col-end" ><button class="t-Button t-Button--icon t-Button--iconRight&#x20;t-Button--hoverIconPush&#x20;t-Button--stretch&#x20;t-Button--gapTop"   type="button" id="B40280469996335550"><span class="t-Icon t-Icon--left fa&#x20;fa-plus" aria-hidden="true"></span><span class="t-Button-label">Sign Up</span><span class="t-Icon t-Icon--right fa&#x20;fa-plus" aria-hidden="true"></span></button></div>
+</div><div class="row ">
+<div class="col col-12 apex-col-auto col-start col-end" ><button class="t-Button t-Button--noUI&#x20;t-Button--stretch&#x20;t-Button--gapTop" type="button"   id="B40574497820322943"><span class="t-Button-label">Your IP Address: 39.59.52.126</span></button></div>
+</div>
+</div></div></div>
+</div>
+</div></div>
+</div><input type="hidden" name="P9999_IP_ADDRESS" id="P9999_IP_ADDRESS" value="39.59.52.126"><input type="hidden" data-for="P9999_IP_ADDRESS" value="MitfJRQPm_2HNgN3jVHLd6V9TNXhTGK8PqZZE4v2pRe8vlG6-CPVp13AlU99mHUuw4B366cJcsmdm1fgK9PlTA"></div>
+</div>
+</div></main>
+  <footer class="t-Login-containerFooter"></footer>
+</div>
+<input type="hidden" id="pPageFormRegionChecksums" value="&#x5B;&#x5D;">
+<input type="hidden" id="pPageItemsRowVersion" value="" /><input type="hidden" id="pPageItemsProtected" value="UDk5OTlfSVBfQUREUkVTUw&#x2F;iDDoF5SZbK4yB-ZQUOg3x3IKwuC-f5fv0JoBcjrjbuUSRfIAJmh-U40u-X2ZApAb75im-Bh9sw6Pbg2DtMhxCg" /></form>
+
+
+<script>
+var apex_img_dir = "\u002Fi\u002F";
+var apex = {env: {APP_USER: "nobody",APP_ID: "100",APP_PAGE_ID: "9999",APP_SESSION: "14365746450439",APP_FILES: "r\u002Fcmis\u002F100\u002Ffiles\u002Fstatic\u002Fv21\u002F",WORKSPACE_FILES: "r\u002Fcmis\u002Ffiles\u002Fstatic\u002Fv1\u002F",APEX_VERSION: "24.1.0",APEX_BASE_VERSION: "24.1"},
+libVersions:{cropperJs:"1.6.1",domPurify:"3.1.2",fontapex:"2.3",fullcalendar:"6.1.11",hammer:"2.0.8",jquery:"3.6.4",jqueryUi:"1.13.2",maplibre:"4.0.1",markedJs:"12.0.1",prismJs:"1.29.0",oraclejet:"16.0.1",tinymce:"6.8.3",turndown:"7.1.3",monacoEditor:"0.47.0",lessJs:"4.2.0"}};
+</script>
+<script src="/i/libraries/apex/minified/desktop_all.min.js?v=24.1.0"></script>
+<script src="wwv_flow.js_messages?p_app_id=100&p_lang=en-us&p_version=24.1.0-242386699"></script>
+
+
+<script src="/i/libraries/apex/minified/widget.stickyWidget.min.js?v=24.1.0"></script>
+<script src="/i/themes/theme_42/24.1/js/theme42.min.js?v=24.1.0"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+apex.jQuery( function() {
+apex.page.init( this, function() {
+try {
+(function(){
+var lTimeoutField = document.getElementById("apex_login_throttle_sec"),
+    lTimeout      = lTimeoutField ? +lTimeoutField.innerHTML : 0;
+if (lTimeout) {
+    var lTimer = window.setInterval (
+        function() {
+            if (lTimeout > 0) {
+                lTimeoutField.innerHTML = lTimeout;
+                lTimeout--;
+            } else {
+                window.clearInterval(lTimer);
+                var lDiv = document.getElementById("apex_login_throttle_div");
+                if (lDiv) {
+                    lDiv.parentNode.removeChild(lDiv);
+                    return true;
+                }
+            }
+        },
+        1000 );
+}})();
+(function(){apex.jQuery("#B38579742522456164").click( event => { apex.submit({request:'LOGIN',validate:true}); });})();
+(function(){apex.jQuery("#B40280360942335549").click( event => { apex.navigation.redirect('\u002Fords\u002Fr\u002Fcmis\u002Fdcis-management-system\u002Fforgot-password?p20_count=10\u0026clear=CR,22\u0026cs=12E72KXoBWR69lBP6rpv4LPSCuHlOC7rGV3KFK2NZQ28AjmnheHSmmz6opDFpAYecPaq9-g3vaukTZrw5d2AVyQ'); });})();
+(function(){apex.jQuery("#B40280469996335550").click( event => { apex.navigation.redirect('\u002Fords\u002Fr\u002Fcmis\u002Fdcis-management-system\u002Fsign-up?p20_count=10\u0026clear=CR,20\u0026cs=1FvPBRENXu1G4TtC3KfKG5D9F5EOz0I4fZAXQXRPzMH6gDB0W16kxXjHGdsjU0bREc60cOFg_o-IdNxbQigvhag'); });})();
+} catch(e) {apex.debug.error(e)};
+apex.item.waitForDelayLoadItems().done(function() {
+try {
+apex.theme42.initializePage.appLogin();
+
+apex.item( 'P9999_USERNAME' ).setFocus();
+} finally {
+apex.event.trigger(apex.gPageContext$,'apexreadyend');
+};
+});
+});
+});apex.pwa.publicKey = 'BOmfADGFKBqNoWjhRO0BrP0g5iTu8mWvyUWn-qCwyPkaa4X6KxVurdkT9yP1fiP-YjXZQNmHubr6Ncsd_Crg3IY'
+apex.pwa.init( { serviceWorkerPath:'\u002Fords\u002Fr\u002Fcmis\u002Fdcis-management-system\u002Fsw.js?v=24.1.0-242386699\u0026lang=en-us' } );
+</script>
+
+</body>
+</html>

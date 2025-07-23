@@ -90,7 +90,14 @@ Install required dependencies:
 pip install library-name
 ```
 
-Note: Most tools rely only on built-in Python libraries. If a specific tool requires additional modules, it will be mentioned in the script comments.
+⚠️ Note: Most tools rely only on built-in Python libraries.
+If a tool requires an additional module (like requests, colorama, or socket), it will be clearly visible at the top of the script via import statements.
+If not installed, Python will show an ImportError when you run the script, so you can install it using:
+```bash
+pip install <missing-package-name>
+```
+📝 Additionally, required input arguments (like target IPs, ports, or wordlists) are either hardcoded for testing or explained through inline comments and error messages in the script.
+
 
 ## 💡 Usage
 Each tool can be executed individually:

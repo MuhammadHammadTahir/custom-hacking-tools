@@ -16,7 +16,6 @@ A custom-built collection of Python-based hacking tools crafted to automate and 
 - [Usage](#usage)  
 - [Testing](#testing)  
 - [Disclaimer](#disclaimer)  
-- [Connect](#connect)
 
 ---
 
